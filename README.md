@@ -152,7 +152,3 @@ This project demonstrates how a complete end-to-end data pipeline can be built l
 ---
 
 **Author:** Gilles SOUOP  
-
-
-END OF README
-====================================================
